@@ -103,3 +103,15 @@ The project uses the `blinkit_data.csv` dataset containing:
 The main objective of this project is to analyze Blinkit's sales data using Python, identify meaningful patterns in product and outlet performance, calculate important business KPIs, and present the findings through informative and visually appealing dashboards.
 
 This project demonstrates practical knowledge of Python, data analysis, data manipulation, KPI calculations, and data visualization.
+
+## 👨‍💻 Author
+
+**Sanket Kenjale**
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
+Created as a Data Analytics project using Jupyter Notebook Python.
+
+If you find this project interesting, feel free to explore the repository!
