@@ -38,7 +38,7 @@ Two dashboard versions were developed as part of this project: an initial sales 
 
 The initial dashboard presents key performance indicators and sales visualizations to understand overall business performance.
 
-![Normal Dashboard](Dashboard_Screenshots/Normal_Dashboard.png)
+![Blinkit Dashboard](https://raw.githubusercontent.com/sanketkenjale0027/Binkit-Analysis-Dashboard-JupyterNotebook/main/snapshot%20of%20the%20NORMAL%20Dashboard.png)
 
 ### 2. Advanced Dashboard Layout
 
