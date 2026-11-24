@@ -44,6 +44,7 @@ The initial dashboard presents key performance indicators and sales visualizatio
 
 The dashboard layout was redesigned with a dark background, improved colour combinations, organized KPI cards, and dedicated spaces for visualizations.
 
+![Blinkit Dashboard Layout](https://raw.githubusercontent.com/sanketkenjale0027/Binkit-Analysis-Dashboard-JupyterNotebook/main/snapshot%20of%20the%20layout%20of%20the%20adv.Dashboard.png)
 
 ### 3. Final Advanced Dashboard
 
